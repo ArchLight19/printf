@@ -107,7 +107,6 @@ The character \fI%\fR is followed by zero the following flags:
 #include ''holberton.h''
 
 int main(void)
-
 {
 
 	int length;
